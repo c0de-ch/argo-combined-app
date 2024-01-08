@@ -88,7 +88,7 @@ disqusShortname = ""
 
     [[params.tiles.showcase]]
       title = "The DevOps 2.4 Toolkit"
-      subtitle = "Continuous Deployment To Kubernetes"
+      subtitle = "Continuous Deployment To Kubernetes 2024"
       image = "devops24-small.png"
       url = "posts/devops-24"
 
